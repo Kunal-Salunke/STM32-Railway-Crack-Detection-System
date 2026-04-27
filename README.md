@@ -70,13 +70,11 @@ An IR sensor is used for crack detection and an ultrasonic sensor is used to det
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-Core/
-├── Src/main.c
-└── Inc/main.h
-Drivers/
+main.c
 README.md
+images/
 
 ---
 
