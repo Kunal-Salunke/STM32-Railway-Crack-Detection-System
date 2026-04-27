@@ -83,3 +83,14 @@ README.md
 ## Note
 
 This was one of my early STM32 projects and helped me understand timers, GPIO, UART and working with multiple sensors together.
+
+## 📸 Project Images
+
+### Testing on Dummy Track (Working Prototype)
+![Track](images/testing_on_track.jpg)
+
+### Final Hardware Setup
+![Setup](images/final_setup.jpg)
+
+### Wiring and Sensor Connections
+![Wiring](images/wiring.jpg)
